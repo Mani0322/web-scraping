@@ -1,0 +1,9 @@
+mobile_name: realme C21Y (Cross Black, 64 GB)
+stars: 4.4
+reviews: 12,637 Ratings & 547 Reviews
+storage : 4 GB RAM | 64 GB ROM | Expandable Upto 256 GB
+display: 16.51 cm (6.5 inch) HD+ Display
+camera: 13MP + 2MP + 2MP | 5MP Front Camera
+battery: 5000 mAh Battery
+processor: Unisoc T610 Processor
+warranty: 1 Year Warranty for Mobile and 6 Months for Accessories
