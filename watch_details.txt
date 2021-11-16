@@ -1,0 +1,15 @@
+watch_one: 90143KM01 Multifunction Analog Watch  - For Men
+price: ₹6,796
+offer: 20% off
+watch_two: NH9710SM01E Raga Analog Watch  - For Women
+price_two: ₹6,995
+offer_two: 4% off
+watch_three: NN1636SM01 Karishma Analog Watch  - For Men
+price_three: ₹2,295
+offer_three: 25% off
+watch_four: NN1773YL03 Karishma Analog Watch  - For Men
+price_four: ₹1,683
+offer_four: 25% off
+watch_five: 1862SL03 Analog Watch  - For Men
+price_five: ₹1,796
+offer_five: 25% off
