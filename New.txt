@@ -2,3 +2,4 @@ this is test file
 second test for merge
 third modification
 number four
+finally five
